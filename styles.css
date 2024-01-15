@@ -115,4 +115,7 @@ body {
     grid-row: span 2;
     height: 240px;
   }
+  span {
+    font-size: 40px;
+  }
 }
