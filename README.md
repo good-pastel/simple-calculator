@@ -25,6 +25,10 @@
 
 A simple calculator built with _HTML_ & _CSS_
 
+## Languages
+
+<img src="https://i.ibb.co/QndtV4y/2.png">
+
 <br>
 <br>
 <br>
